@@ -1,1 +1,13 @@
-#
+#body {
+    background: white;
+    color: black;
+}
+.container, .logo {
+    background: beige;
+    color: black;
+}
+    /* Stili per i titoli h1 */
+h1 {
+    color: red;
+    font: 36px Helvetica, Arial, sans-serif;
+}
