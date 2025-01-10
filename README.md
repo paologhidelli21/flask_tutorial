@@ -1,7 +1,9 @@
 # flask_tutorial
-applicazione sviluppata seguendo il tutorial:
-https://it.python-3.com/?p=3269
-"Come creare un'applicazione Web utilizzando Flask e distribuirla nel cloud" di di Salvador Villalon
+applicazione basata su Tutorial: https://flask.palletsprojects.com/en/stable/tutorial/
+The tutorial project https://github.com/pallets/flask/tree/main/examples/tutorial
 
 source venv/bin/activate
 pip freeze > requirements.txt
+
+Start Command
+gunicorn main:app

@@ -1,5 +1,5 @@
-#flask_tutorial from python-3.com
-#09/01/2025
+#flask_tutorial from https://flask.palletsprojects.com/en/stable/tutorial/
+#10/01/2025
 
 from flask import Flask, render_template
 
