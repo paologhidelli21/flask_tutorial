@@ -1,6 +1,7 @@
 # flask_tutorial
-applicazione basata su Tutorial: https://flask.palletsprojects.com/en/stable/tutorial/
-The tutorial project https://github.com/pallets/flask/tree/main/examples/tutorial
+applicazione basata sulla documentazione di Flask "Quickstart":
+https://flask.palletsprojects.com/en/stable/quickstart/
+
 
 source venv/bin/activate
 pip freeze > requirements.txt
